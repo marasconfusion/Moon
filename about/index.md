@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Marasconfusion
+tags: [about, marasconfusion, confusion, cippirimerlo]
+date: 2018-06-22
 comments: false
 ---
     
