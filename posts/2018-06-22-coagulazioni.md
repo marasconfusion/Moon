@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Venti"
+title:  "Coagulazioni"
 date:   2018-06-22
 tag:
 - giochi di parole
 comments: true
 ---
 
-Bora e Libeccio sembrano due ma in realtà sono venti hahahaha.
+ciao
