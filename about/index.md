@@ -8,6 +8,8 @@ comments: false
     
 <center><a href="http://marasconfusion.github.io"><b>Marasconfusion</b></a> is a cippirimerlo.</center>
 
+<!---
+
 ## Features
 * Minimal, you can focus on your content
 * Responsive
@@ -35,3 +37,5 @@ See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub
 To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
       
 [Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+
+-->
