@@ -7,4 +7,4 @@ tag:
 comments: true
 ---
 
-<audio src="/assets/2018-06-22/kierkegaard.ogg" controls preload></audio>
+<audio src="/assets/2018-06-22/kierkegaard.mp3" controls preload></audio>
