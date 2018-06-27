@@ -2,7 +2,7 @@
 layout: post
 title:  "La verve - Agrodolce sinfonia"
 date:   2018-06-27
-excerpt: ""ta tu ta tu ta ta taa taa taa taaa taa taa taaa"
+excerpt: "ta tu ta tu ta ta taa taa taa taaa taa taa taaa"
 project: true
 tag:
 - canzoni tradotte
