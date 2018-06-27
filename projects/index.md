@@ -1,6 +1,6 @@
 ---
 layout: project
-title: All Projects
-excerpt: "A List of Projects"
+title: Canzoni tradotte
+excerpt: "Le canzoni tradotte"
 comments: false
 ---
